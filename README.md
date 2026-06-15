@@ -6,4 +6,9 @@
 - HTML
 - 내 아이디어
 
+## 더 보기
+[내 깃허브 보러 가기](https://github.com/내아이디)
+
+![고양이 사진](https://cataas.com/cat)
+
 **아직 만드는 중이에요!**
